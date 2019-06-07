@@ -8,7 +8,7 @@
 
 Стили принятые для каждого языка:
 - [C++](https://google.github.io/styleguide/cppguide.html)
-- [Javascript](https://github.com/Signaltech/sjsg)
+- [Javascript](https://github.com/Signaltec/sjsg)
 - Python: [PEP8](https://pep8.ru/doc/pep8/)
 - Go: gofmt
 

@@ -7,9 +7,9 @@
 Одним способом поддержки управляемости кода является обеспечение его единообразия. Очень важно, чтобы любой программист мог взглянуть на чужой код и быстро в нем разобраться.
 
 Стили принятые для каждого языка:
-- C++: (https://google.github.io/styleguide/cppguide.html)[Google C++ Style Guide]  
-- Javascript: (https://github.com/Signaltech/sjsg)[Сигналтек Google C++ Style Guide]  
-- Python: (https://pep8.ru/doc/pep8/)[PEP8]  
+- [C++](https://google.github.io/styleguide/cppguide.html)
+- [Javascript](https://github.com/Signaltech/sjsg)
+- Python: [PEP8](https://pep8.ru/doc/pep8/)
 - Go: gofmt
 
 Для начала перечислим некоторые общие принципы, которых стоит придерживаться:
